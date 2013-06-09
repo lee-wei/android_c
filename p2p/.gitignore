@@ -1,5 +1,0 @@
-#ignore rules
-
-#忽略.o目标文件
-*.o
-~     
